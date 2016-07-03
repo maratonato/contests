@@ -1,2 +1,2 @@
 # contests
-Soluções e caderno de problemas das competições passadas
+Soluções e cadernos de problemas das competições passadas
